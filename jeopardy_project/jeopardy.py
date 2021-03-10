@@ -67,4 +67,3 @@ def unique_answers(dataframe, words):
 
 print(unique_answers(df, ["cow"]))
 
-
