@@ -66,3 +66,4 @@ def unique_answers(dataframe, words):
     return len(filtered)
 
 print(unique_answers(df, ["cow"]))
+
